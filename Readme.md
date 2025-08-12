@@ -22,4 +22,3 @@ By eliminating centralized control, we ensure that academic records remain consi
 `STWZ8XYHNBSSHG88EA477GXRXXFTK0DXK99B5MSA.decantralized-class-roter`  
 <img width="1897" height="817" alt="image" src="https://github.com/user-attachments/assets/61e62203-de42-4043-b663-eb9c87c3448d" />
 
-*(Replace with actual contract address after deployment)*
